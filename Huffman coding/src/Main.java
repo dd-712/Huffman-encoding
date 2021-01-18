@@ -1,3 +1,7 @@
+/*
+This project achieves 38-42% compression of a text file using the Huffman coding.This has been created by Divya Patel and Harshwardhan Yadav as a personel project with swift
+ GUI.
+ */
 import java.io.File;
 import javax.swing.JFileChooser;
 
